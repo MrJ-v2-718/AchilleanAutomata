@@ -64,7 +64,7 @@ This should create a file called BoulderFarm3.class or BoulderFarmLite3.class.
 4. Start Elden Ring and travel to Lenne's Rise site of grace.
 
 		If you do not have this site of grace, there are many online guides that can 
-	help you to get there. Traveling there is not covered in this guide.
+		help you to get there. Traveling there is not covered in this guide.
 
 
 5. Close all other windows and programs besides Elden Ring and your Terminal or PowerShell window.
@@ -113,8 +113,9 @@ touching it. Just don't touch it. Go outside, touch some grass or something.
 
 	PLEASE BE ADVISED:
 ---------------------------------------------------------------------------------------------------
+	
 	A runaway Java bot cannot be turned off. This means if you accidentally touched your mouse
-or keyboard, even though I explicitly told you not to, then the program will continue to run until
-it's done. This means even if you close Elden Ring, it will still be pressing all the keys like it's
-still playing the game. The only way to stop this is by holding down the power button on your PC.
+	or keyboard, even though I explicitly told you not to, then the program will continue to run until
+	it's done. This means even if you close Elden Ring, it will still be pressing all the keys like it's
+	still playing the game. The only way to stop this is by holding down the power button on your PC.
 
