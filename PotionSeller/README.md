@@ -86,7 +86,7 @@ do this is to have a long line of weapons to sell.
 13. Rinse and repeat.
 
 
-					PLEASE BE ADVISED:
+	PLEASE BE ADVISED:
 ---------------------------------------------------------------------------------------------------
 	The only way to stop a runaway robot is by holding down the power button for a hard shutdown.
 	For this reason, don't enter a crazy amount of clicks. I recommend 999 per run.
