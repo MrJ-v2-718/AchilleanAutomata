@@ -1,0 +1,5 @@
+#! /bin/bash
+
+cd ~/AchilleanAutomata/SaraTheStardewSocialite
+java SaraTheStardewSocialite
+
