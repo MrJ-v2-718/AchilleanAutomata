@@ -37,7 +37,7 @@ Some Item Codes:
 	Prismatic Shard [74]
 
 	Please Note:
-		This program is made for a 1920x1080 screen resolution.
+	This program is made for a 1920x1080 screen resolution.
 
 Instructions:
 ------------------------------------------------------------------------------------------
@@ -51,11 +51,11 @@ Instructions:
 	
 Note: apt is package manager for debian branch linux systems,
 if you're on something else just use your package manager. (e.g. yum, pacman, dnf, etc...)
-Also, verify your java repository name. The one I list is for Ubuntu Jammy Jellyfish.
+Also, verify your Java repository name. The one I list is for Ubuntu Jammy Jellyfish.
 
 	On Windows:
 
-		Search for Oracle Java JDK 21 and download it.
+	Search for Oracle Java JDK 21 and download it.
 
 Note: Other versions of the Java JDK might work, but I used 21 to make it.
 
@@ -67,8 +67,8 @@ Note: Other versions of the Java JDK might work, but I used 21 to make it.
 
 	On Linux and Windows:
 
-		Open Terminal and navigate to the directory with the BoulderFarm3.java or 
-	BoulderFarmLite3.java file. You can navigate directories with the cd command.
+	Open Terminal and navigate to the directory with the SaraTheStardewSocialite.java file.
+	You can navigate directories with the cd command.
 
 	Type the following command:
 
@@ -77,9 +77,7 @@ Note: Other versions of the Java JDK might work, but I used 21 to make it.
 This should create a file called SaraTheStardewSocialite.class.
 
 
-4. Start Stardew Valley and travel to a phone.
-
-		Ensure you are directly in front of the phone (i.e. the phone is above you on the screen)
+4. Start Stardew Valley and ensure you are directly in front of the phone (i.e. the phone is above you on the screen)
 
 
 5. Close all other windows and programs besides Stardew Valley and your Terminal, Command Prompt, IDE, or PowerShell window.
