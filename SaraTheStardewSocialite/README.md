@@ -63,8 +63,8 @@ Note: Other versions of the Java JDK might work, but I used 21 to make it.
 
 	On Linux and Windows:
 
-		Open Terminal and navigate to the directory with the BoulderFarm3.java or 
-	BoulderFarmLite3.java file. You can navigate directories with the cd command.
+		Open Terminal and navigate to the directory with the SaraTheStardewSocialite.java or 
+	SaraTheStardewSocialite.java file. You can navigate directories with the cd command.
 
 	Type the following command:
 
