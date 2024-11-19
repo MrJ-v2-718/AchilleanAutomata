@@ -7,7 +7,9 @@ Sara is a program that repeatedly calls Clint in Stardew Valley.
 
 You may be wondering, why on Earth would I want to call Clint 3,000 times a day?
 
-		Well, I'm here to tell you exactly why doing so is fiscally imperative:
+	Well, I'm here to tell you exactly why doing so is fiscally imperative!
+
+-----------------------------------------------------------------------------------------------
 
 First off, Clint is just an all around nice guy and you can call him anytime between the hours 
 of 9am to 4pm and hear his lovely voice. He greets you by name every time. This charming feature 
@@ -32,8 +34,8 @@ Some Item Codes:
 	Treasure [166]
 	Prismatic Shard [74]
 
-	Please Note:
-		This program is made for a 1920x1080 screen resolution.
+Please Note:
+	This program is made for a 1920x1080 screen resolution.
 
 Instructions:
 ------------------------------------------------------------------------------------------
@@ -49,9 +51,9 @@ Note: apt is package manager for debian branch linux systems,
 if you're on something else just use your package manager. (e.g. yum, pacman, dnf, etc...)
 Also, verify your java repository name. The one I list is for Ubuntu Jammy Jellyfish.
 
-	On Windows:
+On Windows:
 
-		Search for Oracle Java JDK 21 and download it.
+	Search for Oracle Java JDK 21 and download it.
 
 Note: Other versions of the Java JDK might work, but I used 21 to make it.
 
@@ -63,7 +65,7 @@ Note: Other versions of the Java JDK might work, but I used 21 to make it.
 
 	On Linux and Windows:
 
-		Open Terminal and navigate to the directory with the SaraTheStardewSocialite.java or 
+	Open Terminal and navigate to the directory with the SaraTheStardewSocialite.java or 
 	SaraTheStardewSocialite.java file. You can navigate directories with the cd command.
 
 	Type the following command:
@@ -75,7 +77,7 @@ This should create a file called SaraTheStardewSocialite.class.
 
 4. Start Stardew Valley and travel to a phone.
 
-		Ensure you are directly in front of the phone (i.e. the phone is above you on the screen)
+	Ensure you are directly in front of the phone (i.e. the phone is above you on the screen)
 
 
 5. Close all other windows and programs besides Stardew Valley and your Terminal, Command Prompt, IDE, or PowerShell window.
@@ -105,7 +107,7 @@ touching it. Just don't touch it. Go outside, touch some grass or something.
 
 	PLEASE BE ADVISED:
 ---------------------------------------------------------------------------------------------------
-	A runaway Java bot cannot be turned off. This means if you accidentally touched your mouse
-or keyboard, even though I explicitly told you not to, then the program will continue to run until
+A runaway Java bot cannot be turned off. This means if you accidentally touched your mouse or 
+keyboard, even though I explicitly told you not to, then the program will continue to run until
 it's done.
 
