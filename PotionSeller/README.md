@@ -88,6 +88,5 @@ do this is to have a long line of weapons to sell.
 
 	PLEASE BE ADVISED:
 ---------------------------------------------------------------------------------------------------
-	The only way to stop a runaway robot is by holding down the power button for a hard shutdown.
-	For this reason, don't enter a crazy amount of clicks. I recommend 999 per run.
-
+A runaway Java bot can be unweildy. The only way to stop it is by holding down the power button on 
+your PC or Ctrl+C in the terminal. The former is a last result.
