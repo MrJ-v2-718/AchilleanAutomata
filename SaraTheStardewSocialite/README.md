@@ -107,7 +107,6 @@ touching it. Just don't touch it. Go outside, touch some grass or something.
 
 	PLEASE BE ADVISED:
 ---------------------------------------------------------------------------------------------------
-A runaway Java bot cannot be turned off. This means if you accidentally touched your mouse or 
-keyboard, even though I explicitly told you not to, then the program will continue to run until
-it's done.
+A runaway Java bot can be unweildy. The only way to stop it is by holding down the power button on 
+your PC or Ctrl+C in the terminal. The former is a last result.
 
